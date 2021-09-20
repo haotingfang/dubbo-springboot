@@ -1,6 +1,7 @@
 package com.springboot.dubbo.dubboprovider;
 
 import com.gupaoedu.dubbo.ISayHelloService;
+import org.apache.dubbo.config.annotation.Method;
 import org.apache.dubbo.config.annotation.Service;
 
 /**
